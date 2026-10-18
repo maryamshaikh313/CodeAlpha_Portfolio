@@ -1,6 +1,6 @@
 ### CodeAlpha_Portfolio
 
-A personal portfolio website built with HTML, CSS and JavaScript for the CodeAlpha Frontend Development internship (Task 3).
+A personal portfolio website built with HTML, CSS and JavaScript for the CodeAlpha Frontend Development internship (Task).
 
 **Live site:** https://maryamshaikh313.github.io/CodeAlpha_Portfolio/
 
